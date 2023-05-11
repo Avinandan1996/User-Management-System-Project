@@ -1,0 +1,16 @@
+Hi $(FANME) $(LNAME),</br>
+</br>
+
+Welcome to AVI IT family , your registration is almost complete.</br>
+</br>
+
+Please unlock your account using below details.</br>
+</br>
+
+Temporary Pwd : $(TEMP_PWD) </br>
+
+<a href="http://localhost:4200/unlock?email=${EMAIL}">Click here to unlock</a>
+</br>
+
+Thanks,</br>
+AVI IT </br>

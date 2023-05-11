@@ -1,0 +1,11 @@
+Hi $(FANME) $(LNAME),</br>
+</br>
+
+Please find your password below.</br>
+
+</br>
+
+Your password : $(PWD)
+
+Thanks,</br>
+AVI IT </br>
